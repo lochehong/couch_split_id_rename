@@ -1,0 +1,19 @@
+{
+  "name": "couchdb-util",
+  "version": "1.0.0",
+  "description": "Split Contactbankdb-storeXX database in two databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "pad-number": "0.0.4",
+    "pinkie-promise": "^2.0.1",
+    "pouchdb": "^6.4.3",
+    "questions": "0.0.6",
+    "random-js": "^1.0.8"
+  }
+}
